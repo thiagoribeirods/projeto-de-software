@@ -1,2 +1,2 @@
 
-  Repositório criando para discilpina de Projeto de Software.
+  Repositório criado para disciplina de Projeto de Software.
