@@ -1,1 +1,2 @@
-# projeto_de_software
+
+  Repositório criando para discilpina de Projeto de Software.
