@@ -1,5 +1,5 @@
 
-# Repositório criado para a disciplina de Projeto de Software.
+# Pizzaria Express
 
 ### Autores:
 
